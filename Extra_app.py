@@ -20,7 +20,7 @@ def definir_cor(nivel):
     elif nivel == 3:
         return Fore.GREEN
     elif nivel == 4:
-        return Fore.INDIGO
+        return Fore.CYAN
     elif nivel == 5:
         return Fore.BLUE
     else:

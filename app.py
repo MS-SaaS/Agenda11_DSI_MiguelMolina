@@ -10,7 +10,7 @@ niveis_agua = [
     "Nível 4 - Alto",
     "Nível 5 - Muito alto (ALERTA)"
 ]
-
+ 
 #Essa parte é uma pequena estrutura de repetição que percorre todos os níveis de água e, para cada nível, chama a função "definir_cor" para obter a cor correspondente.
 def definir_cor(nivel):
     if nivel == 1:
